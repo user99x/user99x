@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/R.2d9a574d72552617bc10ba2293b511af?rik=hB0JOUHqEXOA3A&riu=http%3a%2f%2fs4.favim.com%2forig%2f151218%2fanime-anime-gif-animes-gif-Favim.com-3779504.gif&ehk=NjqOQywaL2LuvxbqtmyebR%2bK%2be9NV66JP9Uo9Hr6FTM%3d&risl=&pid=ImgRaw&r=0"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -24,6 +20,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
+
+###
+
+<img align="right" height="150" src="https://th.bing.com/th/id/R.2d9a574d72552617bc10ba2293b511af?rik=hB0JOUHqEXOA3A&riu=http%3a%2f%2fs4.favim.com%2forig%2f151218%2fanime-anime-gif-animes-gif-Favim.com-3779504.gif&ehk=NjqOQywaL2LuvxbqtmyebR%2bK%2be9NV66JP9Uo9Hr6FTM%3d&risl=&pid=ImgRaw&r=0"  />
 
 ###
 
