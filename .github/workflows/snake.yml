@@ -14,17 +14,22 @@ jobs:
       - name: Récupérer le dépôt
         uses: actions/checkout@v3
 
+      - name: Vérifier le contenu du dossier
+        run: ls -la
+
       - name: Générer l'animation du serpent
         uses: Platane/snk@master
+        id: snake
         with:
-          github_user_name: user99x  # Ton pseudo GitHub
-          outputs: github-contribution-grid-snake.svg
-          snake_color: "blue"  # Couleur du serpent
+          github_user_name: user99x
+          outputs: dist/snake.svg
+          snake_color: "blue"
 
-      - name: Créer le dossier de sortie
-        run: mkdir -p dist && mv github-contribution-grid-snake.svg dist/
+      - name: Vérifier si le fichier a été créé
+        run: ls -la dist/
 
       - name: Publier sur GitHub Pages
+        if: success()
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
