@@ -9,7 +9,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -23,15 +25,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
+<br clear="both">
 
-###
-
-<img align="right" height="150" src="https://th.bing.com/th/id/R.2d9a574d72552617bc10ba2293b511af?rik=hB0JOUHqEXOA3A&riu=http%3a%2f%2fs4.favim.com%2forig%2f151218%2fanime-anime-gif-animes-gif-Favim.com-3779504.gif&ehk=NjqOQywaL2LuvxbqtmyebR%2bK%2be9NV66JP9Uo9Hr6FTM%3d&risl=&pid=ImgRaw&r=0"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="http://discordapp.com/users/1311234876971946016" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -43,7 +39,40 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
+
+###
+
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/user99x/user99x/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/user99x/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
