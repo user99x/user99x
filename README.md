@@ -42,3 +42,9 @@
 <img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
 
 ###
+
+<p align="center">
+  <img alt="github snake" src="output/github-snake.svg" />
+</p>
+
+###
