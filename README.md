@@ -43,6 +43,9 @@
 
 ###
 
+![snake gif](https://github.com/user99x/user99x/blob/output/github-snake-dark.svg)
+
+
 <p align="center">
   <img alt="github snake" src="output/github-snake.svg" />
 </p>
