@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="http://discordapp.com/users/1311234876971946016" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -40,39 +40,5 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/9kvuv2.jpg"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/user99x/user99x/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/user99x/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
